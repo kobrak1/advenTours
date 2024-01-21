@@ -1,0 +1,17 @@
+{
+  "name": "adventours",
+  "version": "1.0.0",
+  "description": "landing page for AdvenTours",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css"
+  },
+  "author": "burak",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^3.7.1"
+  },
+  "devDependencies": {
+    "node-sass": "^9.0.0"
+  }
+}
