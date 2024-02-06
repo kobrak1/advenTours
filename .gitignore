@@ -1,1 +1,5 @@
+# ignore any dile named node_modules
 *node_modules
+
+#ignore the folder named linea_basic_1.0
+linea_basic_1.0/
